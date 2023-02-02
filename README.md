@@ -1,4 +1,4 @@
 ### Hi everyone 👋
 
-- 🌱 I’m currently learning React, .NetCore, Design Patterns
+- 🌱 I’m currently learning Laravel, React, .NetCore and Design Patterns
 
