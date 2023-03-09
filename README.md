@@ -23,7 +23,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=m-moussa-de&exclude=followers&theme=algolia&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=m-moussa-de&exclude=Followers&title_case=off&theme=algolia&no-bg=true"
       alt="m-moussa-de"
   /></a>
 </p>
