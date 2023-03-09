@@ -21,9 +21,9 @@
 
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy?theme=no-followers"
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=m-moussa-de"
+      src="https://github-profile-trophy.vercel.app/?username=m-moussa-de&&tittle=Joined,Repositories,Stars,Commits"
       alt="m-moussa-de"
   /></a>
 </p>
