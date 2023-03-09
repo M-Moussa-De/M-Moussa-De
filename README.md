@@ -23,7 +23,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=m-moussa-de&&tittle=Joined,Repositories,Stars,Commits"
+      src="https://github-profile-trophy.vercel.app/?username=m-moussa-de&&theme=onedark"
       alt="m-moussa-de"
   /></a>
 </p>
