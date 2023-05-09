@@ -2,12 +2,7 @@
 <h3 align="center">A full stack web developer</h3>
 <br><br>
 
-
-
-- 🔭 I’m currently working on [E-Commerce](https://github.com/M-Moussa-De/M_M), [Admin_Dashboard](https://github.com/M-Moussa-De/Admin-Dashboard)
-
-
-- 🌱 I’m currently learning **ASP.NetCore, ReactJS, Laravel**
+- 🌱 I’m currently learning **ASP.NetCore, Design Patterns**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/M-Moussa-De?tab=repositories](https://github.com/M-Moussa-De?tab=repositories)
