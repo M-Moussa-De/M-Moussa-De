@@ -2,7 +2,7 @@
 <h3 align="center">A full stack web developer</h3>
 <br><br>
 
-- 🌱 I’m currently learning **CCNA & Linux**
+- 🌱 I’m currently learning **Networking & Linux**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/M-Moussa-De?tab=repositories](https://github.com/M-Moussa-De?tab=repositories)
