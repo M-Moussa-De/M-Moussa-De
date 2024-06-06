@@ -42,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="asp.net core" width="40" height="40"/> 
   </a> 
   <a href="https://docs.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"> 
-    <img src="https://seeklogo.com/images/E/entity-framework-logo-5C83300B43-seeklogo.com.png" alt="entity framework" width="40" height="40"/> 
+    <img src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo.png" alt="entity framework" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
