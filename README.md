@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> 
+    <img src="https://v4.mui.com/static/logo.png" alt="materialui" width="40" height="40"/> 
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
@@ -42,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="asp.net core" width="40" height="40"/> 
   </a> 
   <a href="https://docs.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/entityframework/entityframework-original.svg" alt="entity framework" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/E/entity-framework-logo-5C83300B43-seeklogo.com.png" alt="entity framework" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
@@ -54,7 +54,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/restapi/restapi-icon.svg" alt="api" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="api" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -63,8 +63,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
 </p>
-
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-moussa-de&show_icons=true&locale=en&layout=compact" alt="m-moussa-de" /></p>
 
