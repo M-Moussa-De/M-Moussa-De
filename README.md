@@ -26,7 +26,13 @@
   </a> 
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> 
     <img src="https://v4.mui.com/static/logo.png" alt="materialui" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://spring.io/img/spring-io-logo.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
