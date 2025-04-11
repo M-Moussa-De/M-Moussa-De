@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Mahmoud</h1>
-<h3 align="center">A full stack web developer</h3>
+<h3 align="center">A Software Engineer</h3>
 <br><br>
 
-- 🌱 I’m currently learning **Networking & Linux**
+- 🌱 I’m currently learning **Networking & RHCSA**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/M-Moussa-De?tab=repositories](https://github.com/M-Moussa-De?tab=repositories)
