@@ -28,10 +28,10 @@
     <img src="https://v4.mui.com/static/logo.png" alt="materialui" width="40" height="40"/> 
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" alt="Java" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Java_logo_%282013%29.svg" alt="Java" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://spring.io/img/spring-io-logo.svg" alt="Spring Boot" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Spring_Framework_Logo_2018.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
