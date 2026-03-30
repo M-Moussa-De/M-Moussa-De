@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer</h3>
 <br><br>
 
-- 🌱 I’m currently learning **Networking & RHCSA**
+- 🌱 I’m currently learning **AI, ML & RHCSA**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/M-Moussa-De?tab=repositories](https://github.com/M-Moussa-De?tab=repositories)
